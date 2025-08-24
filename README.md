@@ -1,2 +1,19 @@
-# build-a-responsive-game-prototype-parser
-A responsive game prototype with a parser feature.
+# Build A Responsive Game Prototype Parser
+
+This repository contains an auto-generated R file for:
+
+- build a responsive game prototype parser
+- **Language**: R
+
+## Description
+
+This file serves as a base implementation for the concept: *build a responsive game prototype parser*.  
+It can be used for educational, prototyping, or inspiration purposes.
+
+## How to Use
+
+Clone the repo, open `wwb3_build_a_respons.R` and extend or run it according to your needs.
+
+---
+
+
